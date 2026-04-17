@@ -1,5 +1,4 @@
 """A simple calculator — the app students will build CI/CD for."""
-import os
 
 def add(a: float, b: float) -> float:
     return a + b
