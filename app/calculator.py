@@ -1,5 +1,6 @@
 """A simple calculator — the app students will build CI/CD for."""
 
+
 def add(a: float, b: float) -> float:
     return a + b
 
